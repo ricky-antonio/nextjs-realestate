@@ -5,7 +5,7 @@ import Navbar from './Navbar';
 import Footer from './Footer';
 
 const Layout = ({ children }) => {
-    console.log({children})
+    // console.log({children})
   return (
     <>
         <Head >
